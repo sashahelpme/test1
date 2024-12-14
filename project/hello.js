@@ -21,4 +21,4 @@ const sendMessage = async () => {
 };
 sendMessage();
 
-module.exports = { duplicateString, sashaHi, sashaRabotaetOnHolidays, sendMessage };
+module.exports = { duplicateString, sashaHi};

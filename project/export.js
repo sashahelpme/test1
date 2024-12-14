@@ -6,8 +6,3 @@ module.exports = function (person) {
   return getName();
 }
 
-const person = {
-    name: "Sasha",       // строка
-    age: 25,             // число
-    isStudent: true      // булево значение
-};

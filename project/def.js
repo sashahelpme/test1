@@ -1,8 +1,8 @@
 class App {
-function abobik(data) {
+ abobik(data) {
 return data + "123";
 }
-function abobikAlone(data) {
+ abobikAlone(data) {
 return data + "321";
 }
 abobik("hello")

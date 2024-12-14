@@ -2,4 +2,12 @@ function duplicateString(input) {
     return input + input;
 }
 
-module.exports = { duplicateString };
+function sashaHi(input) {
+    return input + " саша :)";
+}
+
+function sashaRabotaetOnHolidays(input) {
+    return input + " стук";
+}
+
+module.exports = { duplicateString, sashaHi, sashaPrivet };

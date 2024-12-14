@@ -10,4 +10,4 @@ function sashaRabotaetOnHolidays(input) {
     return input + " стук";
 }
 
-module.exports = { duplicateString, sashaHi, sashaPrivet };
+module.exports = { duplicateString, sashaHi, sashaRabotaetOnHolidays };

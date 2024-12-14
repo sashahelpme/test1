@@ -1,7 +1,5 @@
-import { duplicateString } from './hello.js';
-
-
 module.exports = (data) => {
-    data.hello = duplicateString("Hello");
+    data.hello = "Hello World!";
+
     return data;
 };

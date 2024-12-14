@@ -1,5 +1,5 @@
-module.exports = function (person person) {
-     return person.name;
-  return getName();
+module.exports = function (data) {
+     var pipa = data + data;
+  return "ok";
 }
 

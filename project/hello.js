@@ -10,4 +10,15 @@ function sashaRabotaetOnHolidays(input) {
     return input + " стук";
 }
 
-module.exports = { duplicateString, sashaHi, sashaRabotaetOnHolidays };
+const sendMessage = async () => {
+  try {
+    const result = "123";
+    console.log('Message sent successfully.');
+    console.log(result);
+  } catch (error) {
+    console.error(Message failed with error: ${error.message});
+  }
+};
+sendMessage();
+
+module.exports = { duplicateString, sashaHi, sashaRabotaetOnHolidays, sendMessage };

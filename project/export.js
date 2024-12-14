@@ -1,4 +1,4 @@
-module.exports = function (person) {
+module.exports = function (person person) {
    function getName(person){
      return person.name;
     }  

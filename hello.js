@@ -1,4 +1,3 @@
-module.exports = (data) => {
-    data.hello = "Hello World!";
-    return data;
-};
+function duplicateString(input) {
+    return input + input;
+}

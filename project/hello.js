@@ -16,7 +16,7 @@ const sendMessage = async () => {
     console.log('Message sent successfully.');
     console.log(result);
   } catch (error) {
-    console.error(Message failed with error: ${error.message});
+    console.error("error");
   }
 };
 sendMessage();
